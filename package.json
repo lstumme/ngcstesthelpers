@@ -1,0 +1,23 @@
+{
+  "name": "ngcstesthelpers",
+  "version": "1.0.0",
+  "description": "ngcs package for test factoring",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lstumme/ngcstesthelpers.git"
+  },
+  "author": "Ludovic Stumme <ludovic.stumme@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lstumme/ngcstesthelpers/issues"
+  },
+  "homepage": "https://github.com/lstumme/ngcstesthelpers#readme",
+  "dependencies": {
+    "mongodb-memory-server": "^6.9.2",
+    "mongoose": "^5.10.12"
+  }
+}
